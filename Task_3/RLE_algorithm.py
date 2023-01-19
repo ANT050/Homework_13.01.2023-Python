@@ -34,7 +34,7 @@ def unpacking_string(user_input):
         i += 1
     return uncompress
 
-folder_path = Path.cwd() / "Task3"
+folder_path = Path.cwd() / "Task_3"
 try:
     if user_input == unpacking_string(user_input):
         with open(folder_path / 'unpacking.txt', 'w', encoding='utf-8') as file_1, open(folder_path / 'compress.txt', 'w', encoding='utf-8') as file_2:

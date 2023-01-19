@@ -20,7 +20,7 @@
 
 - Подумайте как наделить бота 'интеллектом'.
 
-:point_right: [Перейти к описанию]( "Открыть")
+:point_right: [Перейти к описанию](https://github.com/ANT050/Homework_13.01.2023-Python/blob/main/Task_1/candy_game.py "Открыть")
 
 ---
 
@@ -30,7 +30,7 @@
 
 НЕОБЯЗАТЕЛЬНО: Добавить игру против бота с интеллектом
 
-:point_right: [Перейти к описанию]( "Открыть")
+:point_right: [Перейти к описанию](https://github.com/ANT050/Homework_13.01.2023-Python/blob/main/Task_2/tic-tac-toe.py "Открыть")
 
 ---
 
@@ -48,7 +48,7 @@
 
 - 5a3b4c -> aaaaabbbcccc
 
-:point_right: [Перейти к описанию]( "Открыть")
+:point_right: [Перейти к описанию](https://github.com/ANT050/Homework_13.01.2023-Python/blob/main/Task3/RLE_algorithm.py "Открыть")
 
 ---
 

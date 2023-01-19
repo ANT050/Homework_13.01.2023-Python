@@ -48,7 +48,7 @@
 
 - 5a3b4c -> aaaaabbbcccc
 
-:point_right: [Перейти к описанию](https://github.com/ANT050/Homework_13.01.2023-Python/blob/main/Task3/RLE_algorithm.py "Открыть")
+:point_right: [Перейти к описанию](https://github.com/ANT050/Homework_13.01.2023-Python/blob/main/Task_3/RLE_algorithm.py "Открыть")
 
 ---
 
